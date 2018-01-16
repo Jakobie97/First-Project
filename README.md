@@ -1,2 +1,2 @@
-# Library of personal Projects
+# Library of personal projects
 #  ;)
