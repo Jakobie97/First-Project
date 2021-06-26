@@ -1,0 +1,23 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("https://image.freepik.com/free-vector/poker-table-background-green-color_47243-1068.jpg");
+    background-size: cover;
+    text-align: center;
+
+}
+    
+h1 {
+    color: goldenrod;
+}
+p {
+    color: honeydew;
+}
+#message-el {
+    font-style: italic;
+}
+button {
+    color: lavender;
+    width: 150px;
+    background: goldenrod;
+    margin-bottom: 4px;
+}
